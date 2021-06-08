@@ -128,7 +128,7 @@ width: 100%;
 /* End of heading */
 /* start of landing section */
 .landing{
-    background-image: url(/Media/photos/mount-1920x1080.jpg);
+    background-image: url(../photos/mount-1920x1080.jpg);
     background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
